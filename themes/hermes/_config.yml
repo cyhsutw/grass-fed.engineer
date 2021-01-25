@@ -1,0 +1,20 @@
+menu:
+    Home: /
+    Instagram: https://www.instagram.com/grass_fed.engineer/
+    Feed: atom.xml
+
+favicon: favicon.png
+logo: favicon.png
+
+# Comment
+# e.g disqus: claymcleod 
+disqus:
+
+# Analytics
+# ga: UA-xxxxxxxx-x
+
+# Copyright Infomation
+startyear: 2021
+
+# Image Credits
+enable_image_credit: false 
