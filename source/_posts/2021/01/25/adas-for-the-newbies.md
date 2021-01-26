@@ -53,7 +53,7 @@ tags:
 
 > 哦，對了，那輛教我開車的車是這台
 
-![Tesla Model 3](tesla-m3.jpeg)
+![Tesla Model 3](/images/tesla-m3.jpeg)
 
 如果你也想體驗看看，歡迎到特斯拉官方網站[預約試駕](https://www.tesla.com/zh_TW/drive)。
 
