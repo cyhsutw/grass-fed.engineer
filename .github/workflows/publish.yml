@@ -13,6 +13,7 @@ jobs:
         with:
           node-version: '15'
       - run: npm install
+      - run: npm clean && npm build
       - uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
