@@ -22,4 +22,12 @@ tags:
 
 ![《寶島搜神》封面](/images/taiwan-gods.jpg)
 
-https://www.books.com.tw/products/0010847586
+---
+
+《寶島搜神》
+
+作者：角斯
+出版社：聯經出版公司
+出版日期：2020 年 1 月 22 日
+語言：繁體中文
+ISBN：9789570854541
