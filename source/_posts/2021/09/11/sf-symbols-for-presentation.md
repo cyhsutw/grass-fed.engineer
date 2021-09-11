@@ -22,8 +22,7 @@ Apple 在第一台 Mac 上市時，就在電腦裡提供眾多字體選項，當
 
 ### 下載、安裝
 
-相當簡單，只需要到 [SF Symbols](https://developer.apple.com/sf-symbols/) 網站下載 SF Symbols（本文撰寫時為 SF Symbols 3 beta），
-下載完成後，利用下載回來的安裝檔進行安裝即可。
+相當簡單，只需要到 [SF Symbols](https://developer.apple.com/sf-symbols/) 網站下載 SF Symbols（本文撰寫時為 SF Symbols 3 beta），下載完成後，利用下載回來的安裝檔進行安裝即可。
 
 ### 使用
 
