@@ -6,7 +6,7 @@
   <link href="https://grass-fed.engineer/atom.xml" rel="self"/>
   
   <link href="https://grass-fed.engineer/"/>
-  <updated>2021-09-11T02:50:40.829Z</updated>
+  <updated>2021-09-11T02:53:20.348Z</updated>
   <id>https://grass-fed.engineer/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://grass-fed.engineer/2021/09/11/sf-symbols-for-presentation/"/>
     <id>https://grass-fed.engineer/2021/09/11/sf-symbols-for-presentation/</id>
     <published>2021-09-11T01:37:54.000Z</published>
-    <updated>2021-09-11T02:50:40.829Z</updated>
+    <updated>2021-09-11T02:53:20.348Z</updated>
     
-    <content type="html"><![CDATA[<p>在製作演說用的投影片時，除了文字之外，很多時候會需要利用一些小圖示來承載資訊。雖然網路上可以找到相當多類似的資源，但是品質參差不齊，風格也大有逕庭，只能算是堪用。</p><p>Apple 在第一台 Mac 上市時，就在電腦裡提供眾多字體選項，當時在業界是創舉。甚至到後來的 iPhone 中內建 Emoji，也直接地幫助使用者可以產生更豐富的內容。</p><p>在 2019 年，Apple 也為軟體開發者提供了一系列扁平化的圖示，可以讓 app 開發者使用風格一致的圖示設計使用者介面。</p><p>這套圖示除了提供給 app 開發者使用的<a href="https://developer.apple.com/documentation/uikit/uiimage/3294233-init">程式介面</a>之外，也提供了給設計師使用的概覽程式：<a href="https://developer.apple.com/sf-symbols/">SF Symbols</a>。</p><p><img src="/images/sf-symbols.png" alt="SF Symbols App"></p><p>這些圖示可以匯入 Keynote 使用，為投影片注入更多視覺化元素。</p><span id="more"></span><p>除了設計風格一致之外，因為匯入的內容是實質上是<strong>文字</strong>，所以可以無限制的縮放而不失真，此外，所有可以套用在文字上的效果也都可以套用在匯入的內容上。</p><h3 id="下載、安裝"><a href="#下載、安裝" class="headerlink" title="下載、安裝"></a>下載、安裝</h3><p>相當簡單，只需要到 <a href="https://developer.apple.com/sf-symbols/">SF Symbols</a> 網站下載 SF Symbols（本文撰寫時為 SF Symbols 3 beta），<br>下載完成後，利用下載回來的安裝檔進行安裝即可。</p><h3 id="使用"><a href="#使用" class="headerlink" title="使用"></a>使用</h3><p>開啟瀏覽程式 SF Symbols Beta</p><ul><li>中間圖示部分為預覽區</li><li>左側欄可以根據類別瀏覽</li><li>右上角可以進行搜尋（只能用英文）</li></ul><p><img src="/images/sf-symbols-usage.png" alt="SF Symbols App Usage"></p><p>在選定圖示後，對圖示按下右鍵 &gt; 選擇「Copy Symbol」</p><p>到 Keynote 中按下右鍵 &gt; 貼上，就可以看見圖示以文字框的形式出現。</p><p><img src="/images/sf-symbols-in-keynote.png" alt="SF Symbols in Keynote"></p><p>接著就可以根據需求修改大小、效果等等。</p><p>下圖是套用了漸層以及一些動畫，簡單模擬出的「燒腦」效果：</p><img src="/images/sf-symbols-effects.gif" style="border: solid 1px #eee; border-radius: 1.5%;"><h3 id="後記"><a href="#後記" class="headerlink" title="後記"></a>後記</h3><p>最近剛好有需要在公司分享一些內容給同事，偶然發現可以這樣使用 SF Symbols。這個小技巧節省了許多找素材的時間，同時也為投影片的質感加分不少。</p><p>可惜的是，網路上比較少資源在討論相關內容，所以決定自己撰寫一篇短文。</p><p>如果你也覺得實用，歡迎分享給你的朋友、同事，讓他們也能一起享受這些優質的設計資源。</p>]]></content>
+    <content type="html"><![CDATA[<p>在製作演說用的投影片時，除了文字之外，很多時候會需要利用一些小圖示來承載資訊。雖然網路上可以找到相當多類似的資源，但是品質參差不齊，風格也大有逕庭，只能算是堪用。</p><p>Apple 在第一台 Mac 上市時，就在電腦裡提供眾多字體選項，當時在業界是創舉。甚至到後來的 iPhone 中內建 Emoji，也直接地幫助使用者可以產生更豐富的內容。</p><p>在 2019 年，Apple 也為軟體開發者提供了一系列扁平化的圖示，可以讓 app 開發者使用風格一致的圖示設計使用者介面。</p><p>這套圖示除了提供給 app 開發者使用的<a href="https://developer.apple.com/documentation/uikit/uiimage/3294233-init">程式介面</a>之外，也提供了給設計師使用的概覽程式：<a href="https://developer.apple.com/sf-symbols/">SF Symbols</a>。</p><p><img src="/images/sf-symbols.png" alt="SF Symbols App"></p><p>這些圖示可以匯入 Keynote 使用，為投影片注入更多視覺化元素。</p><span id="more"></span><p>除了設計風格一致之外，因為匯入的內容是實質上是<strong>文字</strong>，所以可以無限制的縮放而不失真，此外，所有可以套用在文字上的效果也都可以套用在匯入的內容上。</p><h3 id="下載、安裝"><a href="#下載、安裝" class="headerlink" title="下載、安裝"></a>下載、安裝</h3><p>相當簡單，只需要到 <a href="https://developer.apple.com/sf-symbols/">SF Symbols</a> 網站下載 SF Symbols（本文撰寫時為 SF Symbols 3 beta），下載完成後，利用下載回來的安裝檔進行安裝即可。</p><h3 id="使用"><a href="#使用" class="headerlink" title="使用"></a>使用</h3><p>開啟瀏覽程式 SF Symbols Beta</p><ul><li>中間圖示部分為預覽區</li><li>左側欄可以根據類別瀏覽</li><li>右上角可以進行搜尋（只能用英文）</li></ul><p><img src="/images/sf-symbols-usage.png" alt="SF Symbols App Usage"></p><p>在選定圖示後，對圖示按下右鍵 &gt; 選擇「Copy Symbol」</p><p>到 Keynote 中按下右鍵 &gt; 貼上，就可以看見圖示以文字框的形式出現。</p><p><img src="/images/sf-symbols-in-keynote.png" alt="SF Symbols in Keynote"></p><p>接著就可以根據需求修改大小、效果等等。</p><p>下圖是套用了漸層以及一些動畫，簡單模擬出的「燒腦」效果：</p><img src="/images/sf-symbols-effects.gif" style="border: solid 1px #eee; border-radius: 1.5%;"><h3 id="後記"><a href="#後記" class="headerlink" title="後記"></a>後記</h3><p>最近剛好有需要在公司分享一些內容給同事，偶然發現可以這樣使用 SF Symbols。這個小技巧節省了許多找素材的時間，同時也為投影片的質感加分不少。</p><p>可惜的是，網路上比較少資源在討論相關內容，所以決定自己撰寫一篇短文。</p><p>如果你也覺得實用，歡迎分享給你的朋友、同事，讓他們也能一起享受這些優質的設計資源。</p>]]></content>
     
     
     <summary type="html">&lt;p&gt;在製作演說用的投影片時，除了文字之外，很多時候會需要利用一些小圖示來承載資訊。雖然網路上可以找到相當多類似的資源，但是品質參差不齊，風格也大有逕庭，只能算是堪用。&lt;/p&gt;
@@ -43,7 +43,7 @@
     <link href="https://grass-fed.engineer/2021/08/12/less-clever/"/>
     <id>https://grass-fed.engineer/2021/08/12/less-clever/</id>
     <published>2021-08-12T14:02:05.000Z</published>
-    <updated>2021-09-11T02:50:40.829Z</updated>
+    <updated>2021-09-11T02:53:20.348Z</updated>
     
     <content type="html"><![CDATA[<p>在目前的公司剛待滿四年，因為是新創公司，人員規模較小，前面的三年都是獨立開發，一直到了去年，才有另一位相同部門且負責相同產品的同事。</p><p>初來乍到，前面的幾個專案中，花了不少時間帶著他熟悉整體程式碼的結構以及一些實作細節，所以基本上都是由他撰寫程式碼，而我負責審核。</p><p>這位同事的背景跟我很不一樣，我是一路大學、研究所都唸的是資訊工程，而他是自學程式設計，正是這個差異，讓我們之間有了不少火花。</p><p>某次審核他的程式碼時，看到下面這段，腦袋中充滿了各式的疑惑。</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">if (condition == false) &#123; ... &#125;</span><br></pre></td></tr></table></figure><span id="more"></span><p>「為什麼要寫 <code>== false</code>？」<br>「不是寫 <code>!condition</code> 就好了嗎？」<br>「他是不是不知道怎麼用 <code>!</code>？」</p><p>我嘗試在提出改成用 <code>!</code> 的建議，這個建議非但沒有被採納，反而得到了令相當訝異的回覆。</p><p>「用 <code>== false</code> 比較好讀懂，用 <code>!</code> 很容易漏看。」</p><h3 id="這是我進入職場之後，少數幾個具有啟發性的時刻"><a href="#這是我進入職場之後，少數幾個具有啟發性的時刻" class="headerlink" title="這是我進入職場之後，少數幾個具有啟發性的時刻"></a>這是我進入職場之後，少數幾個具有啟發性的時刻</h3><p>只有自己寫程式的時候，完全不會在意這樣的事情，自己寫、自己看，非常難看到自己的盲點。</p><p>簡單易懂的程式碼容易維護，但看起來就是不夠「精明」。許多程式設計師喜歡比拼「誰寫得短」、「誰用了比較炫的語法」等等，我曾經也是這樣的人，但這些習慣都極有可能造成程式未來不易讀懂，也就變得更難維護了。</p><p>在被點醒之後，我開始鑽研如何寫出「精簡」的程式碼，發現其實真的相當不容易。最洗練的程式碼的產生過程往往需要經過抽象化，再反向的把抽象化的結果用最簡單的方式呈現。</p><p>學習如何實踐的過程，有發現一些還不錯的資源，其中一個我覺得相當受用的<a href="https://whyarecomputers.com/3">訪談</a>，就在討論如何用最直觀的方式表達你的邏輯。</p><p>這次的學習經驗很寶貴，完美地呈現了「教學相長」，我一直以為我是在教他，但其實真正學到東西的是我。</p><p>程式設計是一條漫長且孤獨的路，每位程式設計師都是走在自己獨一無二的路上，每次的相遇，都是寶貴的學習機會，值得好好把握，共勉之。</p>]]></content>
     
@@ -64,7 +64,7 @@
     <link href="https://grass-fed.engineer/2021/02/13/gods-of-taiwan/"/>
     <id>https://grass-fed.engineer/2021/02/13/gods-of-taiwan/</id>
     <published>2021-02-13T15:30:00.000Z</published>
-    <updated>2021-09-11T02:50:40.829Z</updated>
+    <updated>2021-09-11T02:53:20.348Z</updated>
     
     <content type="html"><![CDATA[<p>小時候因為家庭的關係，常常走訪許多宮廟求神問卜，有很多關於神靈的碎片知識，當時也沒想這麼多，就只是當作故事在聽。</p><p>也許是耳濡目染，對於宮廟系統幾乎是沒什麼抵抗力，到外縣市玩時會想要去當地著名的廟宇參拜，甚至就連去日本玩一定都是先查神社以及搜集朱印。</p><p>某次在 Costco 進行例行採買時剛好瞄到這本書，翻了一下覺得很喜歡，就帶回家了，但這本書比我想像中的更值得一讀。</p><span id="more"></span><p>書中整理了台灣民間信仰中較常見的神靈，佐以一些較為獨特的神靈（如器物、動物崇拜），搭配作者對於神靈形象插畫，整體內容讀來輕鬆有趣。</p><p>疫情流行時期，農曆新年走訪宮廟絕對不是明智之舉，但是透過這本書以及網路搜尋資料，也能夠進行一段段虛擬進香，也為未來疫情結束後的旅遊行程多埋下一些種子。</p><p>民俗信仰因民生需求而生，在以前靠天吃飯的年代蓬勃發展，現代生活，人們對於信仰的需求已經大不相同，有些傳統儀式未來可能也就只能在書中看到了。當然，也會有更多與時俱進的信仰及服務應運而生，不過神靈的故事將會永久流傳。</p><p>對於民俗信仰有足夠瞭解的讀者，這本絕對是值得收藏的優秀圖文書；而對於民俗信仰比較沒有涉獵的讀者，這本書也可以帶給你很多有趣的小故事，讓你更暸解祂們。</p><p><img src="/images/taiwan-gods.jpg" alt="《寶島搜神》封面"></p><hr><p>《寶島搜神》</p><p>作者：角斯<br>出版社：聯經出版公司<br>出版日期：2020 年 1 月 22 日<br>語言：繁體中文<br>ISBN：9789570854541</p>]]></content>
     
@@ -83,7 +83,7 @@
     <link href="https://grass-fed.engineer/2021/01/25/adas-for-the-newbies/"/>
     <id>https://grass-fed.engineer/2021/01/25/adas-for-the-newbies/</id>
     <published>2021-01-25T13:03:16.000Z</published>
-    <updated>2021-09-11T02:50:40.829Z</updated>
+    <updated>2021-09-11T02:53:20.348Z</updated>
     
     <content type="html"><![CDATA[<p>新手上路，第一個需要做的決定：「要開中古車還是新車？」</p><p>我想多數人應該跟我一樣，選擇開中古車，理由不外乎就是「開老車，磕碰比較不心疼」。</p><p>所以 2019 年 12 月考到駕照後，就入手了一台跟駕訓班上課用的相同車款。</p><p>那是一台剛滿 18 歲的車，車上只有收音機，甚至還沒有倒車雷達。</p><p>結果技術太差，開了不到半個月，就在社區停車場擦撞了鄰居的車 — 好不容易累積的一絲信心直接破滅。</p><blockquote><p>「是不是可以讓車子來教我怎麼駕駛？」</p></blockquote><p>我自顧自地覺得這是一個可行的學習方式。</p><p>趁著春節假期做了一些功課，在半個月後，決定購入輔助駕駛功能比較齊全的車款，讓它來教我開車。</p><span id="more"></span><h3 id="這真是一個正確的決定"><a href="#這真是一個正確的決定" class="headerlink" title="這真是一個正確的決定"></a>這真是一個正確的決定</h3><p>舉幾個我感受比較強烈的例子：</p><h4 id="停車"><a href="#停車" class="headerlink" title="停車"></a>停車</h4><p>透過雷達可以比較暸解跟附近障礙物的距離。如果雷達警告靠太近了，可以比對後視鏡跟車外周遭肉眼可見的樣貌，思考如何調整，這樣下次就可以用比較適當的方式停好車。</p><h4 id="抓車距"><a href="#抓車距" class="headerlink" title="抓車距"></a>抓車距</h4><p>使用自動跟車，可以觀摩電腦如何與前車保持適當距離，以及加速減速時機的掌控。</p><p>另外自動變道也讓我在切換車道時更有餘裕去觀察如何與後車保持適當距離，減少對於其他駕駛者的影響。</p><h4 id="控制方向盤"><a href="#控制方向盤" class="headerlink" title="控制方向盤"></a>控制方向盤</h4><p>車道維持則示範了如何把車開在車道中央，在有點弧度的路面上如何控制左右空間，不壓縮到鄰車的行駛空間。</p><h3 id="學習的成果是帶得走的！"><a href="#學習的成果是帶得走的！" class="headerlink" title="學習的成果是帶得走的！"></a>學習的成果是帶得走的！</h3><p>經過這樣「被示範」大約三個月，在公路上行駛時的穩定性有很顯著的提升。</p><p>比較有趣的是，原本以為會因此而依賴輔助駕駛，要完全自己開時會不知所措，但反而偶爾回頭去開老車時，也明顯地感覺到可以靠自己把車開好。</p><h3 id="應該還可以再進步"><a href="#應該還可以再進步" class="headerlink" title="應該還可以再進步"></a>應該還可以再進步</h3><p>開了三個月之後，幸運抽到<a href="https://www.driveaholic.com.tw/academy/">統哥駕駛學院</a>初級駕駛課程，課程內容讓我對於輔助駕駛的體會又更深了一些，之後有時間再另外寫一篇聊聊。</p><blockquote><p>哦，對了，那輛教我開車的車是這台</p></blockquote><p><img src="/images/tesla-m3.jpeg" alt="Tesla Model 3"></p><p>如果你也想體驗看看，歡迎到特斯拉官方網站<a href="https://www.tesla.com/zh_TW/drive">預約試駕</a>。</p><p>訂車時也歡迎使用我的推薦連結訂購 <a href="https://ts.la/cyhsum72569">https://ts.la/cyhsum72569</a>，這樣你可以得到 1,500 公里免費的超級充電額度。</p>]]></content>
     
