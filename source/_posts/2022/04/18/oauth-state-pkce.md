@@ -50,7 +50,7 @@ tags:
 https://github.com/login/oauth/authorize?state=9YVefLNc&redirect_uri=https://grass-fed.engineer/oauth/callback
 ```
 
-Autorization Server 會在第 3 步重新導向時，在 URI 加入相同的 `state`。
+Authorization Server 會在第 3 步重新導向時，在 URI 加入相同的 `state`。
 
 ```
 https://grass-fed.engineer/oauth/callback?state=9YVefLNc&code=XMPcVwx8vngm7NhJIAQdQPAwKH2m2YUZ
