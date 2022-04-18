@@ -22,7 +22,7 @@
 <h3 id="解方"><a href="#解方" class="headerlink" title="解方"></a>解方</h3><p><code>state</code> 是由 client 產生，令人難以捉摸的一串字，通常會被存放在 cookies 或是 local storage 裡，並且會跟隨第 1 步一起送給 Authorization Server。</p>
 <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">https://github.com/login/oauth/authorize?state=9YVefLNc&amp;redirect_uri=https://grass-fed.engineer/oauth/callback</span><br></pre></td></tr></table></figure>
 
-<p>Autorization Server 會在第 3 步重新導向時，在 URI 加入相同的 <code>state</code>。</p>
+<p>Authorization Server 會在第 3 步重新導向時，在 URI 加入相同的 <code>state</code>。</p>
 <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">https://grass-fed.engineer/oauth/callback?state=9YVefLNc&amp;code=XMPcVwx8vngm7NhJIAQdQPAwKH2m2YUZ</span><br></pre></td></tr></table></figure>
 
 <p>Client 在收到 request 後，會驗證 URL 中的 <code>state</code> 是否跟 local 的 <code>state</code> 相同，如果是，就代表這個 request 當初是自己發出去的，可以開始兌換 <code>access_token</code>；如果不相同，就代表有可能被偽冒了，必須終止兌換流程。</p>
