@@ -1,5 +1,5 @@
 ---
-title: 【筆記】OAuth 2.0 的 `state` 與 PKCE
+title: 筆記：OAuth 2.0 的 `state` 與 PKCE
 date: 2022-04-18 21:14:04
 tags:
 ---
